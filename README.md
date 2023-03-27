@@ -8,8 +8,6 @@
 - [API Interactions](#api-interactions)
 - [Contributing](#contributing)
 - [Author](#author)
-- [Acknowledgements](#acknowledgements)
-- [Show your support](#show-your-support)
 
 ## About Project
 
@@ -20,7 +18,6 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
 
 ### [Live Demo - Netlify](https://crypto-statistics.netlify.app/)
 
-### [Project Presentation - YouTube](https://youtu.be/NV_9kst9jqk)
 
 ## Built With
 
@@ -30,10 +27,10 @@ This project uses [Coinstats API](https://documenter.getpostman.com/view/5734027
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Lameck1/crypto-stats>
+- Clone this repo <https://github.com/Maerih/Crypto-Checker>
 
     ```bash
-    git clone https://github.com/Lameck1/crypto-stats.git
+    git clone https://github.com/Maerih/Crypto-Checker.git
     ```
 
 - Navigate to crypto-stats folder/directory
@@ -80,20 +77,7 @@ Feel free to check the [issues page](https://github.com/Lameck1/crypto-stats/iss
 
 ## Author
 
-👤 **Lameck Otieno**
+👤 **Maerih**
 
-- GitHub: [@githubhandle](https://github.com/Lameck1)
-- Twitter: [@twitterhandle](https://twitter.com/lameck721)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lameck-odhiambo-642b7077/)
-- Portfolio: [Portfolio](https://lameck.me)
+- GitHub: [@githubhandle](https://github.com/Maerih)
 
-## Acknowledgements
-
-- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) from <https://www.behance.net/> for the awesome design that this project is based on.
-- **Developers at <https://coinstats.app/>** for the API that this project consumes.
-- [ReactJS Organization](https://reactjs.org/) for the amazing [Documentation](https://reactjs.org/docs/getting-started.html) on React.
-- [Redux Organization](https://redux.js.org/) for the amazing [Redux Essentials Tutorial](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) on Redux.
-
-## Show your support
-
-Give a ⭐️ if you like this project!
